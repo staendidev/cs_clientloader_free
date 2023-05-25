@@ -1,0 +1,2 @@
+# cs_clientloader_free
+PREMIUM FIVEM CLIENT LOADER, ABUSE DETECTION AND MORE! OBFUSCATED, OPEN SOURCE HERE: discord.gg/coreshield
